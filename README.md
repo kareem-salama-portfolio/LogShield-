@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LogShield
 
 LogShield is an offline PySide6 desktop application for importing and analyzing local SSH authentication logs. It stores normalized events in SQLite, detects brute-force bursts with the specified per-IP sliding window, supports incident review, and exports CSV/JSON reports. All sample records are synthetic.
@@ -73,3 +74,6 @@ The application performs offline defensive analysis only. It does not capture li
 - `docs/TNN_LOGSHIELD_presentation.pdf` — six-slide live-demo presentation.
 - `screenshots/` — four-screen captures and responsive UI review states.
 
+=======
+# LogShield-
+>>>>>>> origin/main
